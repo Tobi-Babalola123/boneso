@@ -82,7 +82,7 @@ export default function Footer() {
             }}
           >
             <Image
-              src="/images/logo.png"
+              src="/images/Logo.png"
               className="brightness-0 invert"
               alt="Boneso Plumbing & Mechanical"
               width={180}
