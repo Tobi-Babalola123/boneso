@@ -48,7 +48,7 @@ export default function Process() {
     <section
       style={{
         backgroundColor: C.blue,
-        padding: "clamp(80px, 9vw, 120px) 0",
+        padding: "clamp(80px, 7vw, 120px) 0",
         overflow: "hidden",
       }}
     >
@@ -67,7 +67,7 @@ export default function Process() {
             gridTemplateColumns: "minmax(0, 1fr) minmax(280px, 0.55fr)",
             gap: 60,
             alignItems: "end",
-            marginBottom: 70,
+            marginBottom: 30,
           }}
           className="process-header"
         >
@@ -77,7 +77,7 @@ export default function Process() {
                 display: "flex",
                 alignItems: "center",
                 gap: 12,
-                marginBottom: 20,
+                marginBottom: 0,
               }}
             >
               <div style={blueBar} />
@@ -214,7 +214,7 @@ export default function Process() {
                         display: "flex",
                         alignItems: "center",
                         gap: 8,
-                        marginBottom: 13,
+                        marginBottom: -4,
                       }}
                     >
                       <div
