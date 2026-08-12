@@ -50,7 +50,7 @@ export default function Navbar() {
               aria-label="First Class Roofing & Renovations home"
             >
               <Image
-                src="/images/logo.png"
+                src="/images/Logo.png"
                 alt="First Class Roofing & Renovations"
                 width={170}
                 height={58}
